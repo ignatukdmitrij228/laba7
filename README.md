@@ -24,8 +24,8 @@
 [Википедия](https://www.wikipedia.org/)
 [Netflix](https://www.netflix.com/)
 ## Изображения
-![Тайная вечеря](https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_resFXD.jpg)
-![Девятый вал](https://commons.wikimedia.org/wiki/File:Ivan_Constantinovich_Aivazovsky_-_The_Ninth_Wave_(detail).JPG)
+![Тайная вечеря](https://upload.wikimedia.org/wikipedia/commons/7/70/Leonardo_da_Vinci_-_The_Last_Supper_high_resFXD.jpg)
+![Девятый вал](https://upload.wikimedia.org/wikipedia/commons/c/c5/Ivan_Constantinovich_Aivazovsky_-_The_Ninth_Wave_%28detail%29.JPG)
 ![Чёрный квадрат](https://upload.wikimedia.org/wikipedia/commons/d/dc/Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg)
 ## Пример исходного кода
 ```cpp
