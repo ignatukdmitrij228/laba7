@@ -26,7 +26,7 @@
 ## Изображения
 ![Тайная вечеря](https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_resFXD.jpg)
 ![Девятый вал](https://commons.wikimedia.org/wiki/File:Ivan_Constantinovich_Aivazovsky_-_The_Ninth_Wave_(detail).JPG)
-![Чёрный квадрат](https://commons.wikimedia.org/wiki/File:Kazimir_Malevich,_1915,_Black_Suprematic_Square,_oil_on_linen_canvas,_79.5_x_79.5_cm,_Tretyakov_Gallery,_Moscow.jpg)
+![Чёрный квадрат](https://upload.wikimedia.org/wikipedia/commons/3/3e/Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79_x_79_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg)
 ## Пример исходного кода
 ```cpp
 #include <iostream>
